@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:after,
+*:before {
+  box-sizing: inherit;
+}
+
+body {
+  box-sizing: border-box;
+  background-color: #242333;
+  font-family: 'Lato', sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  height: 100vh;
+} 
