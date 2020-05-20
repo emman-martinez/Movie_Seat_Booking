@@ -1,6 +1,6 @@
- # Form Validator
+ # Movie Seat Booking
 
- Este es el proyecto de un Login
+ Este es el proyecto de "Reserva de asientos de Cine"
 
  ### Notas:
  Recuerden reconstruir los módulos de Node
