@@ -12,6 +12,7 @@ html {
 body {
   box-sizing: border-box;
   background-color: #242333;
+  color: white;
   font-family: 'Lato', sans-serif;
   display: flex;
   flex-direction: column;
